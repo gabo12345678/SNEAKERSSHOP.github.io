@@ -30,8 +30,6 @@ SNEAKERS
 
  <ul class="Navbar_list">
 
-      </li>
-
       </ul>
   </nav>
 </header>
