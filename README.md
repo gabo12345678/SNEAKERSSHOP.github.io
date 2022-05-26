@@ -40,8 +40,8 @@ SNEAKERS
 <article>
 
       <h4><p><stronge>Fue creada en abril del 2022 en chihuahua, chih., Mex para brindar a los clientes calidad en tenis de marca y de confianza para hacer compras seguras
-     . quien la diseño fue Gabriel Espinoza, un estudiante del bachilleres 10</p></stronge>
-</h4>
+     . quien la diseño fue Gabriel Espinoza, un estudiante del bachilleres 10</stronge>
+
           <img src="Jordan.jpg" width="600" height="400">     <img src="AF1.jpg" width="500" height="400">
 <h5>Esta pagina te ofrece articulos totalmente originales y nuevos, contamos con referencias 
         para que realices tu pedido con seguridad y confianza</h5>
